@@ -1,4 +1,4 @@
-﻿namespace UserManager.ConsoleUI
+﻿namespace CursorInConsole
 {
     public enum Direction
     {

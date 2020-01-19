@@ -1,5 +1,4 @@
-﻿
-namespace UserManager.ConsoleUI
+﻿namespace CursorInConsole
 {
     public class Cursor
     {

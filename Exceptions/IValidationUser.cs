@@ -1,4 +1,4 @@
-﻿namespace UserManagerBLL.UserDataValidation
+﻿namespace Exceptions
 {
     public interface IValidationUser
     {

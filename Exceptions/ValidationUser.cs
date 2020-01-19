@@ -1,7 +1,7 @@
 ﻿using System.IO;
 using UserManagerBLL.Users;
 
-namespace UserManagerBLL.UserDataValidation
+namespace Exceptions
 {
     public class ValidationUser : IValidationUser
     {

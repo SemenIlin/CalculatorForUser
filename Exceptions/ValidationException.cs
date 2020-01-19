@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace UserManagerBLL.UserDataValidation
+namespace Exceptions
 {
     public class ValidationException :Exception
     {
